@@ -9,7 +9,6 @@ This repository contains a deep learning model for detecting deepfake images. Th
 This repository contains a deep learning model for detecting deepfake images. The model is built using TensorFlow and Keras, and it employs a Convolutional Neural Network (CNN) to classify images as either "original" or "deepfake". 
 
 ## Table of Contents
->>>>>>> dcfc5e29954f6704b0d5d8a2ff76ce276d99835d
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -23,11 +22,10 @@ This repository contains a deep learning model for detecting deepfake images. Th
 
 
 ## 3. Installation
-=======
-- [License](#license)
 
-## Installation
->>>>>>> dcfc5e29954f6704b0d5d8a2ff76ce276d99835d
+
+
+
 
 To run the code in this repository, you need to have Python and the following libraries installed:
 
