@@ -98,4 +98,6 @@ yhatnew = new_model.predict(np.expand_dims(resize / 255, 0))
 ## 10. Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
 
+## Thankyou
+
 
